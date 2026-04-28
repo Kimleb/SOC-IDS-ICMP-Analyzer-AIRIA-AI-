@@ -5,13 +5,21 @@ A lightweight Network Intrusion Detection System (NIDS) designed to capture, ana
 This project simulates a SOC monitoring pipeline, including traffic capture, anomaly detection, and alert generation.
 
 🚀 Features
+
 Live ICMP traffic capture using tshark
+
 Source IP traffic analysis
+
 Threshold-based anomaly detection
+
 Automated alert generation (JSON)
+
 SOC-style workflow pipeline
+
 Modular Python architecture
+
 Optional external API integration (Airia/Wazuh-ready)
+
 🧠 Architecture
 Network Traffic
       ↓
