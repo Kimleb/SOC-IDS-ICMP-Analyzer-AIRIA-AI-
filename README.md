@@ -1,4 +1,4 @@
-<img width="1914" height="1007" alt="Screenshot from 2026-04-28 12-38-01" src="https://github.com/user-attachments/assets/8f08aea5-8d7e-40f0-8880-5543785a4755" />
+
 🛡 Mini SOC ICMP Intrusion Detection System
 
 A lightweight Network Intrusion Detection System (NIDS) designed to capture, analyze, and detect anomalous ICMP traffic in real-time using tshark.
@@ -81,3 +81,4 @@ Intrusion detection simulation
 Blue team practice
 <img width="1914" height="969" alt="Screenshot from 2026-04-28 12-40-35" src="https://github.com/user-attachments/assets/4432b998-69ab-4750-b318-dc2910ba6fe3" />
 
+<img width="1914" height="1007" alt="Screenshot from 2026-04-28 12-38-01" src="https://github.com/user-attachments/assets/8f08aea5-8d7e-40f0-8880-5543785a4755" />
