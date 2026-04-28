@@ -50,7 +50,8 @@ sudo apt install tshark -y
 
 Run the full SOC pipeline:
 
-sudo python3 src/main.py
+|sudo python3 src/main.py|
+
 
 📊 Output Files
 
