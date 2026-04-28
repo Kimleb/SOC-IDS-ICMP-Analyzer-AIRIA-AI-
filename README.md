@@ -23,22 +23,23 @@ Optional external API integration (Airia/Wazuh-ready)
 🧠 Architecture
 Network Traffic
 
-      ↓
+      |
+      
 tshark Packet Capture
 
-      ↓
+      |
 CSV Conversion
 
-      ↓
+      |
 Traffic Analyzer (Counter Logic)
 
-      ↓
+      |
 Anomaly Detection Engine
 
-      ↓
+      |
 Alert Generator (JSON)
 
-      ↓
+      |
 SOC Output / API Integration
 
 
