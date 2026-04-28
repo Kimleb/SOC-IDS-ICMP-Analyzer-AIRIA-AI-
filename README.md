@@ -21,7 +21,7 @@ Modular Python architecture
 Optional external API integration (Airia/Wazuh-ready)
 
 🧠 Architecture
-Network Traffic
+Network Traffic	
       ↓
 tshark Packet Capture
       ↓
