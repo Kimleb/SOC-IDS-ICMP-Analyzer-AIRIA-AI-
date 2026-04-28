@@ -78,4 +78,5 @@ Cybersecurity labs
 Network traffic analysis
 Intrusion detection simulation
 Blue team practice
-<img width="1914" height="847" alt="Screenshot from 2026-04-28 12-28-46" src="https://github.com/user-attachments/assets/68d7e1c3-e60e-4b20-ba90-098094395511" />
+<img width="1914" height="969" alt="Screenshot from 2026-04-28 12-40-35" src="https://github.com/user-attachments/assets/4432b998-69ab-4750-b318-dc2910ba6fe3" />
+
